@@ -3,3 +3,5 @@ sleep
 eat
 sleep
 repeat
+rest
+well
